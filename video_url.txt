@@ -1,0 +1,5 @@
+Player URL:
+https://sukhibarfi.github.io/player/?list=https://raw.githubusercontent.com/sukhibarfi/f3b41fc762ebf158/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/sukhibarfi/f3b41fc762ebf158/refs/heads/master/github_master.m3u8
